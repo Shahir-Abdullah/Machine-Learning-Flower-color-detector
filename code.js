@@ -1,3 +1,6 @@
+
+
+
 //training set. [length, width, color(0=blue and 1=red)]
     var dataB1 = [1, 1, 0];
     var dataB2 = [2, 1,   0];
