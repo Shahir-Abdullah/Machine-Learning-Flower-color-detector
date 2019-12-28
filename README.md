@@ -5,3 +5,4 @@ It is my first ML mini project which demonstates the nural nodes of ML. It is bu
 ### This is a simple demonstation of ML for the beginner by the Author @jonasbostoen
 
 The real project is here. [link to the author's github project] (https://github.com/jonasbostoen/simple-neural-network)
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
