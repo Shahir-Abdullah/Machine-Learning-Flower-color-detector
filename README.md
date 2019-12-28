@@ -4,4 +4,4 @@ It is my first ML mini project which demonstates the neural nodes of ML. It is b
 
 ### This is a simple demonstation of ML for the beginner by the Author @jonasbostoen
 
-The real project is here. [link to the author's github project](https://github.com/jonasbostoen/simple-neural-network)
+The real project is here. The this project is written on Python. [link to the author's github project](https://github.com/jonasbostoen/simple-neural-network)
